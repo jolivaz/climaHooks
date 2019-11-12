@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Deployed
-### jolivaz-kowalevski-9f3a32-clima21.netlify.com
+Open [jolivaz-kowalevski-9f3a32-clima21.netlify.com]
 
 ## Available Scripts
 
