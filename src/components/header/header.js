@@ -1,10 +1,10 @@
-import React from 'react'
+import React from 'react';
 
-const Header = ({titulo}) => {
+function Header({titulo}) {
     return(
         <nav>
             <div className="nav-wrapper light-blue darken-2">
-                <a href="#home" className="brand-logo">{titulo}</a>
+                <a href="#!" className="brand-logo">{titulo}</a>
             </div>
         </nav>
     )
